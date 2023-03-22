@@ -1,0 +1,14 @@
+Problem No.1- No physical activity for long time
+Solution- Having an alarm to notify for do some stretching or physical activity.
+
+Problem No.2- Days to remember and To-Do Lists
+Solution- We can have Notes on our system or book or wall to be reminded of that particular date or to-do work.
+
+Problem No.3- Working Parents are busy to not buy stuffs for children
+Solution- Building an app by which students/children can easily contact to their nearby vendors.
+
+Problem No.4- Books related to their subject or interest
+Solution- Constructing an app by which we can easily see the books according to the genre that we are interested in.
+
+Problem No.5- Games for below age 18
+Solution- Making an app in which instead of money we are rewarded with points or gifts for future-use.
